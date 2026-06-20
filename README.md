@@ -36,5 +36,7 @@ Model Assets:
     image_model.h5: The trained Deep Learning model for image predictions.
 
 📸 Screenshots
+<img width="1902" height="797" alt="image" src="https://github.com/user-attachments/assets/1b0d8b07-c247-4653-94a6-cf318dadeec7" />
+
 
     
